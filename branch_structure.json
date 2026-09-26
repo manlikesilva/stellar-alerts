@@ -1,0 +1,33 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/339-release-sbom-license-reporting",
+    "feat/dashboard-componentization",
+    "feat/phase-2-core-engine",
+    "main",
+    "origin",
+    "task-10",
+    "task-11",
+    "task-11-watcher"
+  ],
+  "parent": {
+    "feat/339-release-sbom-license-reporting": "main",
+    "feat/dashboard-componentization": "main",
+    "feat/phase-2-core-engine": "main",
+    "main": null,
+    "origin": "main",
+    "task-10": "main",
+    "task-11": "main",
+    "task-11-watcher": "task-11"
+  },
+  "order": [
+    "main",
+    "feat/339-release-sbom-license-reporting",
+    "feat/dashboard-componentization",
+    "feat/phase-2-core-engine",
+    "origin",
+    "task-10",
+    "task-11",
+    "task-11-watcher"
+  ]
+}
